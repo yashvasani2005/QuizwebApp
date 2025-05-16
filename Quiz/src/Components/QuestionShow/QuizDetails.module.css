@@ -1,0 +1,17 @@
+.quizDetails {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #00b6ffcc;
+    width:100%;
+  }
+  
+  .quizDetails p {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  .quizInputs {
+    font-weight:normal;
+  }
